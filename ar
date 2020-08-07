@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T09:00:16.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" version="13.6.0" etag="qNe1cfzGRC3q-hj_SOKR" type="github"><diagram id="wdcIAUawQF5ZDFUZppT2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-07T09:29:50.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="YtMoNVlUozibWsyiqfuV" version="13.6.0" type="github">
+  <diagram id="wdcIAUawQF5ZDFUZppT2" name="Page-1">
+    <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="494.5" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-1" value="&amp;nbsp; 展示层" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="329" y="50" width="620" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-2" value="web&lt;br&gt;Vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQP-VaIcUbUmcQ7zvGcx-3" target="DQP-VaIcUbUmcQ7zvGcx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="769" y="170" />
+              <mxPoint x="609" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-3" value="微信小程序&lt;br&gt;小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="709" y="65" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 应用层" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="1090" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-7" value="api网关 &lt;br&gt;design-gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="295" width="560" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-26" value="web系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="421" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-27" value="boss后台系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="669" y="420" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-30" value="nacos 微服务" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="950" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-31" value="设计师系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-32" value="雇主系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-33" value="订单系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-34" value="交易系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-37" value="boss用户系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="590" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-38" value="登录权限认证服务器&lt;br&gt;design-auth-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-39" value="登录权限认证服务器&lt;br&gt;design-boss-auth-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="669" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DQP-VaIcUbUmcQ7zvGcx-2" target="DQP-VaIcUbUmcQ7zvGcx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DQP-VaIcUbUmcQ7zvGcx-46" value="用户系统&lt;br&gt;design-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="590" width="176" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
